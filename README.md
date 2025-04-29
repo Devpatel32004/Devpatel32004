@@ -1,10 +1,13 @@
+<p align="center">
+  <img style="border-radius: 15px; width: 100%;" src="https://imgs.search.brave.com/YALMbQRuFv-5Tw3av8QiPPKZSQ4So4qcMxHn2fa5An4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtY3NlLmNhbnZh/LmNvbS9ibG9iLzEz/Njk5OTIvUGVyZmVj/dFdlYkJhbm5lckFk/ZmVhdHVyZWRpbWFn/ZTEuanBn" alt="Project Banner"/>
+</p>
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/_MHHbIuH2i7FU746CHxJY6BXxuBGmxGikgSEYzRXhVo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzEwLzE0Lzg0LzI0/LzM2MF9GXzEwMTQ4/NDI0NTZfNmttZlVS/dVlITEhQZjFLY2hE/NFJVVzJFbEtGcE12/YmUuanBn">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpatel32004&label=Profile%20views&color=0e75b6&style=flat" alt="devpatel32004" /> </p>
 
-- 💬 Ask me about **React,Express.js, Node.js, MongoDB**
+- 💬 Ask me about **Next.js, React, Express.js, Node.js, MongoDB**
 
 - 📫 How to reach me **devp222004@gmail.com**
 
@@ -19,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,express,figma,github,html,js,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=nextjs,js,typescript,react,vite,mongodb,express,nodejs,tailwind,html,prisma,git,github,bootstrap,c,cpp,css,postman,redux,vscode&amp;perline=14">
   </a>
 </p>
 
