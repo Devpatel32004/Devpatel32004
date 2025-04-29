@@ -1,9 +1,9 @@
-<p align="center">
-  <img style="border-radius: 15px; width: 100%;" src="https://imgs.search.brave.com/YALMbQRuFv-5Tw3av8QiPPKZSQ4So4qcMxHn2fa5An4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtY3NlLmNhbnZh/LmNvbS9ibG9iLzEz/Njk5OTIvUGVyZmVj/dFdlYkJhbm5lckFk/ZmVhdHVyZWRpbWFn/ZTEuanBn" alt="Project Banner"/>
-</p>
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/_MHHbIuH2i7FU746CHxJY6BXxuBGmxGikgSEYzRXhVo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzEwLzE0Lzg0LzI0/LzM2MF9GXzEwMTQ4/NDI0NTZfNmttZlVS/dVlITEhQZjFLY2hE/NFJVVzJFbEtGcE12/YmUuanBn">
+<p align="center">
+  <img style="width: 100%;" src="https://imgs.search.brave.com/1zGIFu45gWhEdx04e6_VJl5xJADFQBFqNn30zBqbu8U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzM1LzMxLzQ3/LzM2MF9GXzQzNTMx/NDcyOV9sVEx4VEJo/NkhXQ3RZRGgwSjkw/WjNmS3pRQnRrQjRu/bi5qcGc" alt="Project Banner"/>
+</p>
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/pEBopd0QK-wN3y05hhk0EHJOWNi9RJcV7wngOXdYKn8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzI0LzgyLzYz/LzM2MF9GXzEyNDgy/NjMwNl9RWFVFelR4/aVFTVlRuamg3MlNJ/bU9vWm1mSXQ3Z2ow/eC5qcGc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpatel32004&label=Profile%20views&color=0e75b6&style=flat" alt="devpatel32004" /> </p>
 
